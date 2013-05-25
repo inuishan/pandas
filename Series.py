@@ -14,3 +14,4 @@ ser = Series(dict2,index=['a','c'])
 #print ser
 print pd.isnull(ser)
 print pd.notnull(ser)
+print "Hellelujai"
